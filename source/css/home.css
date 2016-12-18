@@ -1,0 +1,8 @@
+.bg-box {
+	background: url("https://avatars3.githubusercontent.com/u/3992942?v=3&s=460");
+	background-size: cover;
+	height: calc(100% - 100px);
+	width: calc(100%);
+	color: white;
+	font-size: 48px;
+}
